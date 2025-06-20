@@ -8,7 +8,7 @@
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 
-<h2>## Review</h2>
+<h2>Review</h2>
 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
