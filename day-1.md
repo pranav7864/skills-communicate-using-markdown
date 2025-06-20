@@ -1,5 +1,5 @@
-<h1># Daily Learning</h1>
-<h2>## Morning Planning</h2>
+<h1>Daily Learning</h1>
+<h2>Morning Planning</h2>
 
 <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 
